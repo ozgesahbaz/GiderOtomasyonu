@@ -1,0 +1,74 @@
+[
+  {
+    "id": "e2efbcdc-9be7-4b36-ac83-817f7160ac2a",
+    "masrafTipi": "\u00D6\u011Fle Yeme\u011Fi",
+    "fisBilgisi": {
+      "no": "1987654",
+      "tarih": "2021-08-28T12:28:27.3898385+03:00",
+      "tutar": 20
+    },
+    "aciklama": "..",
+    "durumu": 0,
+    "kullaniciId": "fbcca4d1-d385-488f-8c54-8997bac75852"
+  },
+  {
+    "id": "04f6be19-b842-4eb9-9195-81d8a690478d",
+    "masrafTipi": "Yol Paras\u0131",
+    "fisBilgisi": {
+      "no": "234872",
+      "tarih": "2021-08-28T12:33:29.1564775+03:00",
+      "tutar": 45.00
+    },
+    "aciklama": "aaaa22",
+    "durumu": 0,
+    "kullaniciId": "fbcca4d1-d385-488f-8c54-8997bac75852"
+  },
+  {
+    "id": "4272c696-973a-4e25-a1c4-43b15200aaf5",
+    "masrafTipi": "\u00D6\u011Fle Yeme\u011Fi",
+    "fisBilgisi": {
+      "no": "321",
+      "tarih": "2021-08-28T12:33:59.6159804+03:00",
+      "tutar": 50
+    },
+    "aciklama": "ffff",
+    "durumu": 3,
+    "kullaniciId": "fbcca4d1-d385-488f-8c54-8997bac75852"
+  },
+  {
+    "id": "81f55bd9-81a6-4bfc-902e-3cf39e7b8f58",
+    "masrafTipi": "\u00D6\u011Fle Yeme\u011Fi",
+    "fisBilgisi": {
+      "no": "12345",
+      "tarih": "2021-08-29T10:00:49.2678221+03:00",
+      "tutar": 22
+    },
+    "aciklama": "test",
+    "durumu": 3,
+    "kullaniciId": "56190771-2d59-4f70-9ecc-eeadf588afbd"
+  },
+  {
+    "id": "d22862d7-24a9-4741-9c0f-056c72b8214d",
+    "masrafTipi": "Ara\u00E7 Kiralama",
+    "fisBilgisi": {
+      "no": "8888",
+      "tarih": "2021-08-29T10:02:51.5682147+03:00",
+      "tutar": 88
+    },
+    "aciklama": "test",
+    "durumu": 0,
+    "kullaniciId": "d7e7e4a3-8ad2-4171-9e74-bfa29aef1456"
+  },
+  {
+    "id": "db2bbbaa-2ddc-4863-9606-8fdea2fa096b",
+    "masrafTipi": "\u00D6\u011Fle Yeme\u011Fi",
+    "fisBilgisi": {
+      "no": "1111",
+      "tarih": "2021-08-29T10:03:35.166686+03:00",
+      "tutar": 11
+    },
+    "aciklama": "testttt",
+    "durumu": 0,
+    "kullaniciId": "cbcdbcf0-7020-4273-b6a1-ad5ea230c73f"
+  }
+]

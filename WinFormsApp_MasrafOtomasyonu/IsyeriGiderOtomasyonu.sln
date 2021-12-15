@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsyeriGiderOtomasyonu", "WinFormsApp_MasrafOtomasyonu\IsyeriGiderOtomasyonu.csproj", "{EAC50FA5-F3B8-490E-9EE8-B606056DA8C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC50FA5-F3B8-490E-9EE8-B606056DA8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC50FA5-F3B8-490E-9EE8-B606056DA8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC50FA5-F3B8-490E-9EE8-B606056DA8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC50FA5-F3B8-490E-9EE8-B606056DA8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F2F55F5-20F8-42A6-90CE-4AC689602059}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,75 @@
+[
+  {
+    "id": "970258d1-b561-446b-ba31-dfbe6acf0d9a",
+    "tamAdi": "Ozge Sahbaz",
+    "kullaniciAdi": "ozgesahbaz",
+    "sifre": "123",
+    "tipi": 2,
+    "yoneticiId": null
+  },
+  {
+    "id": "970258d1-b561-446b-ba31-dfbe6acf0d9a",
+    "tamAdi": "Murat Ba\u015Feren",
+    "kullaniciAdi": "muratbaseren",
+    "sifre": "123",
+    "tipi": 2,
+    "yoneticiId": null
+  },
+  {
+    "id": "fbcca4d1-d385-488f-8c54-8997bac75852",
+    "tamAdi": "Dilay Can\u0131tez",
+    "kullaniciAdi": "dilay",
+    "sifre": "123",
+    "tipi": 2,
+    "yoneticiId": null
+  },
+  {
+    "id": "56190771-2d59-4f70-9ecc-eeadf588afbd",
+    "tamAdi": "Tolga yazg\u0131",
+    "kullaniciAdi": "tolga",
+    "sifre": "123",
+    "tipi": 1,
+    "yoneticiId": "fbcca4d1-d385-488f-8c54-8997bac75852"
+  },
+  {
+    "id": "da179c95-5b3f-4f4f-8ec3-a1682f1d1a3c",
+    "tamAdi": "\u015Eiir Turan",
+    "kullaniciAdi": "siir",
+    "sifre": "123",
+    "tipi": 1,
+    "yoneticiId": "fbcca4d1-d385-488f-8c54-8997bac75852"
+  },
+  {
+    "id": "d7e7e4a3-8ad2-4171-9e74-bfa29aef1456",
+    "tamAdi": "Abidin Yarata",
+    "kullaniciAdi": "abidin",
+    "sifre": "123",
+    "tipi": 3,
+    "yoneticiId": "fbcca4d1-d385-488f-8c54-8997bac75852"
+  },
+  {
+    "id": "25313c4b-1489-403d-beec-a077efea0830",
+    "tamAdi": "\u0130rem Yurtlugil",
+    "kullaniciAdi": "irem",
+    "sifre": "123",
+    "tipi": 2,
+    "yoneticiId": "fbcca4d1-d385-488f-8c54-8997bac75852"
+  },
+  {
+    "id": "cbcdbcf0-7020-4273-b6a1-ad5ea230c73f",
+    "tamAdi": "Caner Kale",
+    "kullaniciAdi": "caner",
+    "sifre": "123",
+    "tipi": 1,
+    "yoneticiId": "25313c4b-1489-403d-beec-a077efea0830"
+  },
+  {
+    "id": "4a27ff84-9a66-46b8-b440-5a53f329214a",
+    "tamAdi": "G\u00F6kberk Perem",
+    "kullaniciAdi": "gokberk",
+    "sifre": "123",
+    "tipi": 1,
+    "yoneticiId": "25313c4b-1489-403d-beec-a077efea0830"
+  }
+
+]
